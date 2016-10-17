@@ -1,0 +1,15 @@
+{
+  "name": "ESP8266 MQTT RC Switch",
+  "device_id": "esp-rcswitch",
+  "wifi": {
+    "ssid": "ssid",
+    "password": "password"
+  },
+  "mqtt": {
+    "host": "mqtt-host",
+    "port": 1883
+  },
+  "ota": {
+    "enabled": false
+  }
+}
